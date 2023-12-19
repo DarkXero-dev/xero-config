@@ -362,7 +362,7 @@ DialogWidth=720
 [Containments][168][Applets][169][Configuration][General]
 fill=false
 iconSpacing=0
-launchers=applications:org.kde.dolphin.desktop,applications:vivaldi-stable.desktop,applications:org.gnome.Meld.desktop,applications:sublime_text.desktop,applications:org.kde.konsole.desktop,applications:org.gnome.DiskUtility.desktop,applications:timeshift-gtk.desktop,applications:virt-manager.desktop,applications:systemsettings.desktop
+launchers=applications:org.kde.dolphin.desktop,applications:vivaldi-stable.desktop,applications:org.gnome.Meld.desktop,applications:sublime_text.desktop,applications:org.kde.konsole.desktop,applications:org.gnome.DiskUtility.desktop,applications:timeshift-gtk.desktop,pavucontrol-qt.desktop,applications:systemsettings.desktop
 
 [Containments][168][Applets][180]
 immutability=1

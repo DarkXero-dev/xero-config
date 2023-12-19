@@ -2,7 +2,7 @@
 pkgname=xero-config
 _destname1="/etc"
 pkgver=23.12
-pkgrel=2
+pkgrel=3
 pkgdesc="Desktop Config for XeroLinux"
 arch=('any')
 url="https://github.com/DarkXero-dev"
